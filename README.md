@@ -11,7 +11,7 @@ This project contains three different charts built with the followings
 
 ## Project preview
 
-
+![gif](https://github.com/windate3411/vue-chart/blob/master/GIF.gif)
 
 ## Project setup
 ```
