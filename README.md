@@ -1,4 +1,17 @@
-# vue-chart
+# Vue-chart pratice
+
+## Description
+30Days challenge-8 Vue-chart pratice
+This project contains three different charts built with the followings 
+
++ vue-cli
++ vue-chartjs
++ chartjs
++ vueBootstrap
+
+## Project preview
+
+
 
 ## Project setup
 ```
